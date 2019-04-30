@@ -1,3 +1,6 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "preservance717.github.io"]
+	path = preservance717.github.io
+	url = git@github.com:preservance717/preservance717.github.io.git
