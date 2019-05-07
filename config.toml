@@ -24,13 +24,14 @@ canonifyurls = true
 [author]
   name = "L G"
   bio = "It's up to you how far you go. If you don't try, you'll never know!"
-  job = "FE"
-  location = "China"
+  job = "Front End Developer"
+  location = "Beijing,China"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  # gravatarEmail = "author.picture"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "/avatar.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -80,6 +81,12 @@ canonifyurls = true
   name = "Stack Overflow"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
   url = "https://stackoverflow.com/users/8125519/galler-gao"
+[[menu.links]]
+  weight = 3
+  identifier = "jianshu"
+  name = "jianshu"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-book\"></i>"
+  url = "https://www.jianshu.com/u/befa68b81f92"
 
 #[[menu.misc]]
 #  weight = 1
