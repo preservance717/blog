@@ -4,3 +4,6 @@
 [submodule "preservance717.github.io"]
 	path = preservance717.github.io
 	url = git@github.com:preservance717/preservance717.github.io.git
+[submodule "themes/themes/hugo-tranquilpeak-theme"]
+	path = themes/themes/hugo-tranquilpeak-theme
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
