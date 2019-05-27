@@ -4,7 +4,7 @@ languageCode = "en-us"
 
 title = "LG"
 
-publishdir = "preservance717.github.io"
+publishdir = "../preservance717.github.io"
 
 defaultContentLanguage = "en-us"
 theme = "hugo-tranquilpeak-theme"
